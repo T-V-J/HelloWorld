@@ -1,6 +1,8 @@
 # HelloWorld
 A C++ Hello World project, using CMake, ninja, ccache, and GitHub Actions.
 
+> I use this to test GitHub Action.
+
 # Documentation
 This project was used as an example for these two blog entries:
 
